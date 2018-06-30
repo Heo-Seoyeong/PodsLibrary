@@ -1,0 +1,16 @@
+PODS:
+  - PodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - PodsLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  PodsLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodsLibrary: d6fbcfc07e0845d5638518a1052bf3e3d3f303c4
+
+PODFILE CHECKSUM: 4f08ecffaf85f8a873a08a538bd6984f300d6a0a
+
+COCOAPODS: 1.5.0
